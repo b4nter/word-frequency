@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/word-frequency/static/css/main.8632f022.chunk.css",
+    "main.js": "/word-frequency/static/js/main.ba1b47c8.chunk.js",
+    "main.js.map": "/word-frequency/static/js/main.ba1b47c8.chunk.js.map",
+    "runtime-main.js": "/word-frequency/static/js/runtime-main.fe40dc26.js",
+    "runtime-main.js.map": "/word-frequency/static/js/runtime-main.fe40dc26.js.map",
+    "static/js/2.460414ed.chunk.js": "/word-frequency/static/js/2.460414ed.chunk.js",
+    "static/js/2.460414ed.chunk.js.map": "/word-frequency/static/js/2.460414ed.chunk.js.map",
+    "index.html": "/word-frequency/index.html",
+    "precache-manifest.91e959b8191fac92dd08556941f6f069.js": "/word-frequency/precache-manifest.91e959b8191fac92dd08556941f6f069.js",
+    "service-worker.js": "/word-frequency/service-worker.js",
+    "static/css/main.8632f022.chunk.css.map": "/word-frequency/static/css/main.8632f022.chunk.css.map",
+    "static/js/2.460414ed.chunk.js.LICENSE.txt": "/word-frequency/static/js/2.460414ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe40dc26.js",
+    "static/js/2.460414ed.chunk.js",
+    "static/css/main.8632f022.chunk.css",
+    "static/js/main.ba1b47c8.chunk.js"
+  ]
+}
